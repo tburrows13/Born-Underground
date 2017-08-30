@@ -11,3 +11,7 @@ It isn't particulary neat but there is a level editor in `main.py` (currently li
 Originally based off platforming example:
 
 http://programarcadegames.com/python_examples/f.php?file=platform_jumper.py
+
+Note that due to a problem with pygame, it probably won't be controllable on macOS.
+
+![Preview of game](http://i67.tinypic.com/2yvrplc.jpg)
