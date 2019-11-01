@@ -28,4 +28,4 @@ http://programarcadegames.com/python_examples/f.php?file=platform_jumper.py
 
 Note that due to a problem with pygame, it probably won't be controllable on macOS.
 
-![Preview of game](https://imgur.com/a/XEmvLvn)
+![Preview of game](https://imgur.com/X4hr55f)
